@@ -1,5 +1,5 @@
 # Instagram-bulk-account-creator-
-Create unlimited Instagram verified accounts Automatic email confirmation and SMS 
+Create unlimited Instagram verified accounts Automatic email verification and SMS 
 
 ✔️last version 
 
